@@ -1,6 +1,6 @@
 # SquashWorld Website
 
-This is a simple static website project created using **HTML and CSS**.
+This is a very simple static website project created using **HTML and CSS**.
 
 The project was developed for educational purposes and demonstrates basic web development concepts such as page structure, navigation menus, tables, images, and styling with CSS.
 
